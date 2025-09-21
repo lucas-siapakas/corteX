@@ -2,6 +2,9 @@
 
 A Python-based application for controlling NI USB-6212 DAQ card with waveform generation and real-time monitoring capabilities.
 
+<img width="1202" height="832" alt="{573E6440-7A5E-4352-B5EF-EFF3E7B84D9F}" src="https://github.com/user-attachments/assets/671b96db-1916-4b1b-b09b-34cd6578ba82" />
+
+
 ## Features
 
 - Generate various waveforms (sine, square, triangle, sawtooth)
